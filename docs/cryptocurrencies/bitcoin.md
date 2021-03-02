@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Bitcoin (BTC)
 description: The first cryptocurrency to see the light of day. Created by the pseudonym Satoshi Nakamoto in 2008 who introduced the concept of the blockchain.
-mainImage: img/bitcoin.jpg
+mainImage: img/bitcoin.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-03-02
@@ -10,7 +10,7 @@ modified: 2021-03-02
 
 # Bitcoin (BTC)
 
-![Bitcoin](../img/bitcoin.jpg 'Bitcoin')
+![Bitcoin](../img/bitcoin.webp 'Bitcoin')
 
 Official webpage https://www.bitcoin.org/
 

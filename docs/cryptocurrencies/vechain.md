@@ -2,7 +2,7 @@
 layout: default.hbs
 title: VeChain (VET)
 description: A blockchain whose purpose is to measure, track and guarantee product quality. With good partnerships behind it and support for smart contracts and decentralized applications.
-mainImage: img/vechain.jpg
+mainImage: img/vechain.webp
 author: Tony Gustafsson
 created: 2019-07-29
 modified: 2019-07-29
@@ -10,7 +10,7 @@ modified: 2019-07-29
 
 # VeChain (VET)
 
-![VeChain](../img/vechain.jpg 'VeChain')
+![VeChain](../img/vechain.webp 'VeChain')
 
 Official webpage https://www.vechain.com/
 

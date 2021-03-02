@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Stellar (XLM)
 description: Stellar was created by Jed McCaleb in 2014 in response to Ripple. The project aims to help the developing world with transactions and is more decentralized than its counterpart Ripple.
-mainImage: img/stellar.jpg
+mainImage: img/stellar.webp
 author: Tony Gustafsson
 created: 2019-07-28
 modified: 2019-07-28
@@ -10,7 +10,7 @@ modified: 2019-07-28
 
 # Stellar Lumen (XLM)
 
-![Stellar](../img/stellar.jpg 'Stellar')
+![Stellar](../img/stellar.webp 'Stellar')
 
 Stellar was created by Jed McCaleb in 2014. Jed was also the founder of Mt. Gox - one of the largest exchanges of its time. He was also involved in creating [Ripple](/cryptocurrencies/xrp.html), but chose to go on and create his own non-profit organization and currency.
 

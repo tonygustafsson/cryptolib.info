@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Directed acyclic graphs
 description: DAGs is a technology that promises faster transactions than blockchains and is successfully used by cryptocurrencies such as IOTA and NANO.
-mainImage: img/dag.png
+mainImage: img/dag.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-03-01
@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Directed acyclic graphs (DAG)
 
-![Directed acyclic graphs](../img/dag.png 'Directed acyclic graphs')
+![Directed acyclic graphs](../img/dag.webp 'Directed acyclic graphs')
 
 Directed Acyclic Graph (DAG) is a challenger to the [blockchain](/technology/blockchains.html), which seeks to solve the problem of expensive transaction fees, slow transactions and poor scalability. Blockchains themselves have solutions such as layer-2 technologies (Ex [Lightning Network](/technology/lightning-network.html)), sharding and [Proof of Stake](/technology/proof-of-stake.html), but so far no one has reached speeds similar to those seen on DAG-based networks.
 
@@ -28,7 +28,7 @@ Because of this, there is no room for miners in DAG-based currencies. There is t
 
 Each node in the network has its own blockchain, you could say. If an incorrect or false transaction is detected, the chain will spin off and continue where the last valid transaction was.
 
-![DAG-graf](../img/dag-graph.png 'DAG-graf')
+![DAG-graf](../img/dag-graph.webp 'DAG-graf')
 
 Blockchains are secure because the encryption algorithms are secure. But a threat you can see on the horizon is quantum computers, which are extremely fast at guessing checksums in comparison to ordinary computers. You will probably find a solution to that problem when it's time, but DAG-based solutions are already protected.
 
@@ -40,13 +40,13 @@ Another weakness is that it becomes impossible to handle [smart contracts](/tech
 
 ## Block Lattice
 
-![Blockgitter](../img/block-lattice.png 'Blockgitter')
+![Blockgitter](../img/block-lattice.webp 'Blockgitter')
 
 Some currencies, such as [NANO](/cryptocurrencies/nano.html) and VITE, have solved the problem of [smart contracts](/technology/smart-contracts.html) by using a block lattice. It is still DAG-based technology, but there you split transactions into two different events. An event for money to be sent, and an event for money to be received. Then you can suddenly know the order of the transactions, even though the network is asynchronous.
 
 ## Hashgraphs
 
-![Hashgraf](../img/hashgraph.png 'Hashgraf')
+![Hashgraf](../img/hashgraph.webp 'Hashgraf')
 
 Another DAG-based technology is hash graphs, which are used by, for example, Hedera Hashgraph and Tolar HashNET, is a kind of gossip protocol. Instead of a node sending a transaction communicating with two other nodes and validating their transactions, all events are communicated to two parties. The whole history and nothing less. And they in turn tell everything it knows to two parties. So it around it goes.
 

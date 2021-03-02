@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Wallets
 description: Cryptocurrencies are stored in a wallet, which is an application that is protected with your private key, and allows you to send and receive the currency in question.
-mainImage: img/banano-wallet.png
+mainImage: img/banano-wallet.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-03-01
@@ -24,4 +24,4 @@ But the absolute safest way is to buy yourself a hardware wallet, such as the [L
 
 These words create your private key using an algorithm. The same algorithm can create all the private keys for you that are used by a multitude of different cryptocurrencies.
 
-![Banano wallet](/img/banano-wallet.png 'Banano wallet')
+![Banano wallet](/img/banano-wallet.webp 'Banano wallet')

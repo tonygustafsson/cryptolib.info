@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Ideology
 description: Deals with the ideology and thoughts behind cryptocurrencies. The sphere is characterized mainly by libertarianism, freedom and to some extent anarchy.
-mainImage: img/cencorship.png
+mainImage: img/cencorship.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-02-28
@@ -20,7 +20,7 @@ We can complain that everything costs money, and that we are to some extent limi
 
 Inflation is a problem in all countries, even though we may not be affected in everyday life in the same way. But the government is printing new money when they see a need for it. In many cases it is absolutely necessary, but we must remember that for every new dollar that is printed, the value of our dollars we already own decreases. Most cryptocurrencies cannot print new money, but a fixed number of coins is determined in advance. Of course, this has a positive effect on prices, when demand increases.
 
-![Censur](img/cencorship.png 'Censur')
+![Censur](img/cencorship.webp 'Censur')
 
 ## Technological
 
@@ -30,4 +30,4 @@ For the first time, it is possible to use technology to create systems that are 
 
 In 2009, [Bitcoin](/cryptocurrencies/bitcoin.html) saw the light of day - since then, digital currencies have been possible. Data has always been able to be copied in one way or another. If a digital currency is only pure data, then you could assume that it would be just as easy to copy value on a blockchain. Thanks to the blockchain, this is not possible, and thanks to the fact that bitcoin is only available in a limited number, a _value_ of data was created for the first time.
 
-![Bitcoin - ett alternativ](img/bitcoin-alternative.jpg 'Bitcoin - ett alternativ')
+![Bitcoin - ett alternativ](img/bitcoin-alternative.webp 'Bitcoin - ett alternativ')

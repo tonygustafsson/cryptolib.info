@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Smart contracts
 description: A solution that was adopted by Ethereum for the first time and involves laying if / then rules on the blockchain. For example, if $10 is deposited in the following account, send 50% to person X and 50% to person Y.
-mainImage: img/smart-contracts.png
+mainImage: img/smart-contracts.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-03-01
@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Smart contracts
 
-![Smart contracts](../img/smart-contracts.png 'Smart contracts')
+![Smart contracts](../img/smart-contracts.webp 'Smart contracts')
 
 Smart contracts are a solution for electronic and automatic contracts and were first proposed by Nick Szabo back in 1997. [Bitcoin](/cryptocurrencies/bitcoin.html) has a simple scripting language that supports multi-signatures and time locks etc., but [Ethereum ](/cryptocurrencies/ethereum.html) was the project that took it to a whole new level.
 

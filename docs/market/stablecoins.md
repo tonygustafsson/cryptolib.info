@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Stablecoins
 description: A stable coin is linked to a FIAT currency, securities or, for example, gold. The purpose is to have a more stable value to trade against.
-mainImage: img/stablecoins.jpg
+mainImage: img/stablecoins.webp
 author: Tony Gustafsson
 created: 2020-08-03
 modified: 2021-03-01
@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Stablecoins
 
-![Stablecoins](../img/stablecoins.jpg 'Stablecoins')
+![Stablecoins](../img/stablecoins.webp 'Stablecoins')
 
 A stablecoin is a cryptocurrency that is linked to the value of a FIAT currency such as USD, EUR or YEN. This does not mean that the value is stable, but that they have the same value as these currencies. As is well known, FIAT currencies also go up and down in value in comparison with other currencies. Nothing has its own value, unless it stands in contrast to something else. Some may even be linked with multiple currencies, or against other things such as securities or gold. This is to further try to create a value that does not fluctuate too much in value.
 
@@ -26,7 +26,7 @@ Stablecoins also have a given place in [decentralized finance (DeFi)](/market/de
 
 A major advantage of stablecoins over FIAT currencies is that they are located on a blockchain and thus have full transparency. You can thus see the total market capitalization, which addresses own how much, and how large the supply of new coins is. Several nations have said that they plan to officially launch a cryptocurrency as a complement to their existing FIAT currency, which will then hold the same value. Both China and the USA have made plans for a digital counterpart. However, it is unlikely that any nation will use a public blockchain as this transparency is unfortunately not desirable.
 
-![Digital dollar](../img/stablecoins-digital-dollar.jpg 'Digital dollar')
+![Digital dollar](../img/stablecoins-digital-dollar.webp 'Digital dollar')
 
 ## Large players
 

@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Decentralized applications (DApps)
 description: About apps and applications whose data integrate with decentralized systems and blockchains. This enables unstoppable and uncensored applications.
-mainImage: img/decentralized-applications.jpg
+mainImage: img/decentralized-applications.webp
 author: Tony Gustafsson
 created: 2019-07-29
 modified: 2021-03-01
@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Decentralized applications (DApps)
 
-![CryptoKitties](../img/decentralized-applications.jpg 'CryptoKitties')
+![CryptoKitties](../img/decentralized-applications.webp 'CryptoKitties')
 
 A software that communicates with a [blockchain](/technology/blockchains.html) and integrates with them through [smart contracts](/technology/smart-contracts.html). These applications can look like ordinary applications, and can take the form of web applications, desktop applications or mobile apps.
 

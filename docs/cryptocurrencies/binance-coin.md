@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Binance Coin (BNB)
 description: A currency created by the exchange Binance as a faster and cheaper alternative to Ethereum. The price for that is unfortunately lost decentralization.
-mainImage: img/binance-coin.png
+mainImage: img/binance-coin.webp
 author: Tony Gustafsson
 created: 2021-02-20
 modified: 2021-02-20
@@ -10,7 +10,7 @@ modified: 2021-02-20
 
 # Binance Coin (BNB)
 
-![Binance Coin](../img/binance-coin.png 'Binance Coin')
+![Binance Coin](../img/binance-coin.webp 'Binance Coin')
 
 Official webpage https://www.binance.com/en/bnb
 

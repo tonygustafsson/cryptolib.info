@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Blockchains
 description: About the technology behind blockchains. How they work and what they can be used for, and about the different generations since 2009.
-mainImage: img/blockchain.png
+mainImage: img/blockchain.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-03-01
@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Blockchains
 
-![Blockchains](../img/blockchain.jpg 'Blockchains')
+![Blockchains](../img/blockchain.webp 'Blockchains')
 
 A blockchain consists of a long series of blocks. Each block usually contains several transactions. It is a decentralized database without a central hub, which makes it difficult to stop or control.
 

@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Ripple (XRP)
 description: Created in 2012, promises fast and painless international transactions.
-mainImage: img/xrp.jpg
+mainImage: img/xrp.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-03-02
@@ -10,7 +10,7 @@ modified: 2021-03-02
 
 # Ripple (XRP)
 
-![Ripple](../img/xrp.jpg 'Ripple')
+![Ripple](../img/xrp.webp 'Ripple')
 
 Official webpage https://www.ripple.com/xrp/
 

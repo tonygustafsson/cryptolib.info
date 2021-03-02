@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Polkadot (DOT)
 description: A decentralized network, created by the Web3 Foundation. With Parachains, PoS and interoperability with other networks, they have succeeded in something that few others have done.
-mainImage: img/polkadot.png
+mainImage: img/polkadot.webp
 author: Tony Gustafsson
 created: 2021-02-20
 modified: 2021-02-20
@@ -10,7 +10,7 @@ modified: 2021-02-20
 
 # Polkadot (DOT)
 
-![Polkadot](../img/polkadot.png 'Polkadot')
+![Polkadot](../img/polkadot.webp 'Polkadot')
 
 Official webpage https://polkadot.network/
 
@@ -22,7 +22,7 @@ They use [Nominated Proof of Stake](/technology/proof-of-stake.html) as a consen
 
 Parachains are not active at the time of writing, but will be auctioned off shortly. The price is thus unknown, but it can be assumed that it will not be cheap.
 
-![Polkadot Parachains](../img/polkadot-parachains.png 'Polkadot Parachains')
+![Polkadot Parachains](../img/polkadot-parachains.webp 'Polkadot Parachains')
 
 Polkadot does not try to compete with [Ethereum](/cryptocurrencies/ethereum.html), but works a lot with interoperability and collaborations between different networks. They build bridges between different decentralized blockchains instead of tooting their own horn and trying to destroy the other players (something that turned out to be a mistake that previous players often made).
 

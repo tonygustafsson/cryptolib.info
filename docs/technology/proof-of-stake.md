@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Proof of Stake (PoS)
 description: A solution for scalability, transaction times and electricity costs that Proof of Work is burdened with. Here, a validating node is voted on instead based on chance, effort and the age of the effort.
-mainImage: img/proof-of-stake.jpg
+mainImage: img/proof-of-stake.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-03-01
@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Proof of Stake (PoS)
 
-![Proof of Stake](../img/proof-of-stake.jpg 'Proof of Stake')
+![Proof of Stake](../img/proof-of-stake.webp 'Proof of Stake')
 
 The idea came in 2011 as a solution to all the problems that [Proof of Work](/technology/proof-of-work.html) created. For example, the problem of scalability, transaction times, transaction costs, and electricity costs to operate the network. [Ethereum](/cryptocurrencies/ethereum.html) has chosen to leave Proof of Work in favor of Proof of Stake in the future for these reasons.
 

@@ -20,4 +20,4 @@ Here is a list of common social networks in the blockchain sphere.
 -   [Youtube](https://www.youtube.com/) is common for people interested in crypto to follow. Examples of popular Youtubers are [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan/featured), [Modern Investor](https://www.youtube.com/channel/UC-5HLi3buMzdxjdTdic3Aig) [DataDash](https://www.youtube.com/channel/UCCatR7nWbYrkVXdxXb4cGXw/videos), [The Crypto Lark](https://www.youtube.com/user/larksongbird01) and [CryptoZombie](https://www.youtube.com/channel/UCiUnrCUGCJTCC7KjuW493Ww).
 -   PodCasts are not a social networks, but a common way to share information and news. Popular podcasts are [Unchained](https://unchainedpodcast.com/), [Coin Mastery](https://www.coinmastery.com/) and [Bad Crypto Podcast](https://badcryptopodcast.com/).
 
-![Sociala nätverk](img/social-networks.jpg 'Sociala nätverk')
+![Sociala nätverk](img/social-networks.webp 'Sociala nätverk')

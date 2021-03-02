@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Litecoin (LTC)
 description: Bitcoin's little brother created by Charlie Lee in 2011. The idea is a faster, easier and cheaper currency than BTC.
-mainImage: img/litecoin.png
+mainImage: img/litecoin.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-03-02
@@ -10,7 +10,7 @@ modified: 2021-03-02
 
 # Litecoin (LTC)
 
-![Litecoin](../img/litecoin.png 'Litecoin')
+![Litecoin](../img/litecoin.webp 'Litecoin')
 
 Officell webbplats: https://litecoin.org/
 

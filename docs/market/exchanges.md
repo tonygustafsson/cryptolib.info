@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Exchanges
 description: About different exchanges and how they work. What you should think about, and the risks of leaving your assets with an exchange.
-mainImage: img/exchange.jpg
+mainImage: img/exchange.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-02-28
@@ -18,7 +18,7 @@ One of the first exchanges was Mt. Gox, which with great success let a lot peopl
 
 Cryptocurrencies themselves are secure, as long as the private key is in safe custody. But having your money on a exchange always involves a risk. It is not _your_ money if you don't own the key, exchanges then function as a bank. The media often incorrectly reports that "Bitcoin has been hacked", which has never happened. What is meant is that a large exchange has been hacked.
 
-![Kryptohandel](../img/exchange.jpg 'Kryptohandel')
+![Kryptohandel](../img/exchange.webp 'Kryptohandel')
 
 ## How it works
 

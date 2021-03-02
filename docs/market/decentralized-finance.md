@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Decentralized finance (DeFi)
 description: A collective term for new financial systems that improve or replace banking services with open and free systems - with the help of blockchains and smart contracts.
-mainImage: img/decentraliserad-finans.jpg
+mainImage: img/decentraliserad-finans.webp
 author: Tony Gustafsson
 created: 2020-08-02
 modified: 2021-03-01
@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Decentralized finance (DeFi)
 
-![Decentralized finance](../img/decentraliserad-finans.jpg 'Decentralized finance')
+![Decentralized finance](../img/decentraliserad-finans.webp 'Decentralized finance')
 
 Decentralized finance is a collective term for new financial services such as savings, loans, mortgages and insurance that use open and free systems. It is also referred to as Open Finance or DeFi.
 
@@ -26,7 +26,7 @@ The total value locked to DeFi has increased from about $5.2 billion to about $4
 
 Just as with blockchain technology in general, everyone can participate. Which also includes poorer countries and sections of the population that lack access to banking services. As long as you have a smartphone with an internet connection, there are no obstacles. The current banking system excludes about 40% of the world's population.
 
-![Tillväxten för DeFi](../img/decentraliserad-finans-tillvaxt.png 'Tillväxten för DeFi')
+![Tillväxten för DeFi](../img/decentraliserad-finans-tillvaxt.webp 'Tillväxten för DeFi')
 
 ## Technology
 
@@ -42,7 +42,7 @@ The most common area of use for DeFi is loans and interest rates. Since it is no
 
 It is usually about wanting quick money, perhaps for new investments, without having to sell. Say you want to use the value of your Monero, but do not sell them if they suddenly increase in value. Then you can lend Monero to others, and pay with, for example, USDT (Tether), and thus get a percentage profit.
 
-![Lån genom DeFi](../img/decentraliserad-finans-lan.png 'Lån genom DeFi')
+![Lån genom DeFi](../img/decentraliserad-finans-lan.webp 'Lån genom DeFi')
 
 ## Important players
 
