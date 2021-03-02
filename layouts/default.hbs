@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {{#if productionMode}}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ googleAnalyticsId }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', '{{ googleAnalyticsId }}');
+    </script>
+    {{/if}}
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="{{ description }}" />
+
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:image" content="{{ pageUrl }}{{ mainImage }}" />
+    <meta property="og:url" content="{{ canonical }}" />
+
+    <link rel="canonical" href="{{ canonical }}" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png">
+    <link rel="manifest" href="/img/icons/site.webmanifest">
+    <link rel="mask-icon" href="/img/icons/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/img/icons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffc40d">
+    <meta name="msapplication-config" content="/img/icons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="/styles/main.css" />
+    <title>{{ title }} | {{ pageTitle }}</title>
+</head>
+
+<body>
+    <div class="page-container">
+        <div class="mobile-menu">
+            <a class="mobile-menu__trigger js-mobile-menu-trigger" href="#">&#9776;</a>
+            <h1>
+                <a href="/index.html">{{ pageTitle }}</a>
+            </h1>
+        </div>
+
+        <aside class="menu js-menu">
+            <div class="menu__content">
+                <h1>
+                    <a href="/index.html">{{ pageTitle }}</a>
+                </h1>
+
+                <nav>
+                    <ul>
+                        <li><a href="/ideology.html">Ideology</a></li>
+                        <li><a href="/industries.html">Industries</a></li>
+                        <li><a href="/social-networks.html">Social Networks</a></li>
+                        <li><a href="/terminology.html">Terminology</a></li>
+                    </ul>
+                </nav>
+
+                <h2>Market &amp; Economics</h2>
+
+                <nav>
+                    <ul>
+                        <li><a href="/market/trading.html">Trading</a></li>
+                        <li><a href="/market/exchanges.html">Exchanges</a></li>
+                        <li><a href="/market/decentralized-finance.html">Decentralized Finance (DeFi)</a></li>
+                        <li><a href="/market/wallets.html">Wallets</a></li>
+                        <li><a href="/market/passive-income.html">Passive income</a></li>
+                        <li><a href="/market/stablecoins.html">Stablecoins</a></li>
+                    </ul>
+                </nav>
+
+                <h2>Technology</h2>
+
+                <nav>
+                    <ul>
+                        <li><a href="/technology/blockchains.html">Blockchains</a></li>
+                        <li><a href="/technology/directed-acyclic-graphs.html">Directed Acyclic Graphs (DAGs)</a></li>
+                        <li><a href="/technology/proof-of-work.html">Proof of Work</a></li>
+                        <li><a href="/technology/proof-of-stake.html">Proof of Stake</a></li>
+                        <li><a href="/technology/byzantine-fault-tolerance.html">Byzantine Fault Tolerance</a></li>
+                        <li><a href="/technology/smart-contracts.html">Smart Contracts</a></li>
+                        <li><a href="/technology/lightning-network.html">Lightning Network</a></li>
+                        <li>
+                            <a href="/technology/decentralized-applications.html">Decentralized Applications (DAPPs)</a>
+                        </li>
+                        <li>
+                            <a href="/technology/oracles.html">Oracles</a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <h2>Crypto Currencies</h2>
+
+                <nav>
+                    <ul>
+                        <li><a href="/cryptocurrencies/bitcoin.html">Bitcoin</a></li>
+                        <li><a href="/cryptocurrencies/ethereum.html">Ethereum</a></li>
+                        <li><a href="/cryptocurrencies/binance-coin.html">Binance Coin</a></li>
+                        <li><a href="/cryptocurrencies/polkadot.html">Polkadot</a></li>
+                        <li><a href="/cryptocurrencies/cardano.html">Cardano</a></li>
+                        <li><a href="/cryptocurrencies/xrp.html">XRP (Ripple)</a></li>
+                        <li><a href="/cryptocurrencies/litecoin.html">Litecoin</a></li>
+                        <li><a href="/cryptocurrencies/tron.html">TRON</a></li>
+                        <li><a href="/cryptocurrencies/stellar.html">Stellar</a></li>
+                        <li><a href="/cryptocurrencies/monero.html">Monero</a></li>
+                        <li><a href="/cryptocurrencies/iota.html">IOTA</a></li>
+                        <li><a href="/cryptocurrencies/vechain.html">VeChain</a></li>
+                        <li><a href="/cryptocurrencies/neo.html">NEO</a></li>
+                        <li><a href="/cryptocurrencies/nano.html">NANO</a></li>
+                    </ul>
+                </nav>
+
+                <nav>
+                    <ul>
+                        <li><a href="/donations.html">Donations</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </aside>
+
+        <article class="article">
+            <div class="article__content">
+                {{{ contents }}}
+            </div>
+
+            <footer class="article__footer">
+                <table>
+                    <tr>
+                        <td>Published:</td>
+                        <td><time>{{ created }}</time></td>
+                    </tr>
+                    <tr>
+                        <td>Edited:</td>
+                        <td><time>{{ modified }}</time></td>
+                    </tr>
+                    <tr>
+                        <td>Author:</td>
+                        <td>{{ author }}</td>
+                    </tr>
+                </table>
+            </footer>
+        </article>
+    </div>
+
+    <script type="application/ld+json">
+            {
+                "@context": "http://schema.org/",
+                "@type": "Article",
+                "name": "{{ title }}",
+                "headline": "{{ title }}",
+                "image": "{{ pageUrl }}{{ mainImage }}",
+                "description": "{{ description }}",
+                "dateCreated": "{{ created }}",
+                "datePublished": "{{ created }}",
+                "dateModified": "{{ modified }}",
+                "author": "{{ author }}",
+                "url": "{{ canonical }}",
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "{{ canonical }}"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "{{ pageTitle }}",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "{{ pageUrl }}img/blockkedjor.se.jpg"
+                    }
+                }
+            }
+        </script>
+
+    <script src="/js/main.js"></script>
+
+    {{#unless productionMode}}
+    <script src="http://localhost:35729/livereload.js"></script>
+    {{/unless}}
+</body>
+
+</html>
