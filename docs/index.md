@@ -5,7 +5,7 @@ description: The purpose of this website is to inform curious folks about crypto
 mainImage: img/cryptolib.webp
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2021-02-28
+modified: 2021-03-02
 ---
 
 # Crypto Library
@@ -16,4 +16,4 @@ The purpose of this website is to inform curious folks about cryptocurrencies. T
 
 Here you will find information about specific currencies, the technology behind them, about [exchanges](/market/exchanges.html) and [trading](/market/trading). You will also find information about [terminology](/terminology.html) and how you can find more useful information.
 
-You can also find this website and all information below on [GitHub](https://github.com/tonygustafsson/cryptolib.info). If you want, you can [donate](/donations.html) a satoshi or two to encourage the site's survival and development.
+You can also find this website and all information below on [GitHub](https://github.com/tonygustafsson/cryptolib.info). We also welcome you as a contributor to the project. If you want, you can [donate](/donations.html) a satoshi or two to encourage the site's survival and development.
