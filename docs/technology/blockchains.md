@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Blockkedjor
+title: Blockchains
 description: About the technology behind blockchains. How they work and what they can be used for, and about the different generations since 2009.
 mainImage: img/blockchain.png
 author: Tony Gustafsson
@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Blockchains
 
-![Blockkedjor](../img/blockchain.jpg 'Blockkedjor')
+![Blockchains](../img/blockchain.jpg 'Blockchains')
 
 A blockchain consists of a long series of blocks. Each block usually contains several transactions. It is a decentralized database without a central hub, which makes it difficult to stop or control.
 

@@ -1,6 +1,6 @@
 # Crypto Library
 
-A website informing the swedish population about crypto currencies, blockchains, smart contracts, defi and such. The content of this repository is for the site [cryptolib.info](https://www.cryptolib.info).
+A website informing the curious folks about crypto currencies, blockchains, smart contracts, defi and such. The content of this repository is for the site [cryptolib.info](https://www.cryptolib.info).
 
 This site is built with metalsmith, that generates HTML documents from markdown files.
 
