@@ -22,7 +22,7 @@ Metalsmith(__dirname)
     .metadata({
         pageTitle: 'Crypto Library',
         pageUrl: pageUrl,
-        googleAnalyticsId: 'UA-144587630-1',
+        googleAnalyticsId: 'G-VD0MWBFPZH',
         productionMode: productionMode
     })
     .source('./docs')
