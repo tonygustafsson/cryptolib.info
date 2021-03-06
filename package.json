@@ -1,7 +1,7 @@
 {
     "name": "cryptolib.info",
     "version": "1.0.1",
-    "description": "A swedish site informing the population about blockchains and open finance.",
+    "description": "A site informing the curious folks about blockchains and decentralized finance.",
     "main": "index.js",
     "directories": {
         "doc": "docs"
