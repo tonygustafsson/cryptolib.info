@@ -5,7 +5,7 @@ description: The first cryptocurrency to see the light of day. Created by the ps
 mainImage: img/bitcoin.webp
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2021-03-02
+modified: 2021-03-06
 ---
 
 # Bitcoin (BTC)
@@ -35,6 +35,12 @@ There will never be more than 21 million BTC, which creates a system with very l
 -   Of course, the oldest is not technically the best anymore. Most currencies today are more technologically advanced than Bitcoin. Since the platform is the largest and oldest, it is even more important that no interruptions or losses occur. One mistake and people would lose confidence for good. This means that technical advances must be tested for years before they can be implemented.
 -   No support for anonymous / secret transactions.
 -   No support for [smart contracts](/technology/smart-contracts.html) or distributed apps.
+
+## The future
+
+Bitcoin is not updated very often. The latest major update was SegWit (Segregated Witness) in 2017. But now there are two major updates that might come to reality already in 2021, namely Taproot and Schnorr signatures.
+
+In short, Taproot means increased integrity and anonymity by making transactions from multi-signatures and regular users look similar on the blockchain, so that it is more difficult to distinguish between sender and recipient. Schnorr signatures have been around since 1989 but have been a patented technology. Now that the patet has expired, they want to implement the technology and through it be able to combine signatures, which simplifies and reduces the transaction sizes.
 
 ## Buying
 
