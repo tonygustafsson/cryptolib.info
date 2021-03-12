@@ -34,7 +34,8 @@ It usually takes several minutes to calculate a hash that corresponds to the deg
 
 In the genesis of [Bitcoin](/cryptocurrencies/bitcoin.html), you could mine just fine on a regular computer - especially with one with a good graphics card. But when specially designed computers (ASICs - Application Specific Integrated Circuit) were created, which are exceptionally good at hashing, the difficulty increased rapidly. Today, therefore, it is basically impossible to succeed in cracking an acceptable hash in time with a regular computer.
 
-![Mining farm](../img/mining-farm.webp 'Mining farm') An example of a mining farm with ASICs, specially built to generate checksums.
+![Mining farm](../img/mining-farm.webp 'Mining farm')
+_An example of a mining farm with ASICs, specially built to generate checksums._
 
 The great thing about Proof of Work is that it is the previous block that is being hashed, and in this way you always insure the previous block (hence a chain with blocks is created, hence "[blockchain](/technology/blockchains.html)". It therefore becomes extremely difficult to fool the network with creating a new block and try to add that to the blockchain, since there are thousands of miners validating each other. Proof of Work is considered very secure. No one has so far managed to hack Bitcoin.
 
