@@ -10,7 +10,7 @@ modified: 2019-07-28
 
 # Stellar Lumen (XLM)
 
-![Stellar](../img/stellar.webp 'Stellar')
+![Stellar](/img/stellar.webp 'Stellar')
 
 Stellar was created by Jed McCaleb in 2014. Jed was also the founder of Mt. Gox - one of the largest exchanges of its time. He was also involved in creating [Ripple](/cryptocurrencies/xrp.html), but chose to go on and create his own non-profit organization and currency.
 

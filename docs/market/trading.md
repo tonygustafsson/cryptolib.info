@@ -20,7 +20,7 @@ In short, you can find a project you like on, for example, [CoinGecko](https://w
 
 ## Common mistakes
 
-![Misstag](../img/mistake.webp 'Misstag')
+![Misstag](/img/mistake.webp 'Misstag')
 
 ### Not read up on the project
 
@@ -56,4 +56,4 @@ It becomes almost impossible to keep track of how much you have gained or lost a
 
 In the beginning, you usually try with documents and spreadsheets, but it usually falls flat. If you want to keep track, you need an application that helps someone who is specially made to keep track of your crypto portfolio. You enter which currency you buy and for how many dollar, when you sell or exchange, it keeps track of profit / loss for you. Examples of such applications are [Blockfolio](https://blockfolio.com/) and [CoinTracking](https://cointracking.info/).
 
-![Blockfolio](../img/blockfolio.webp 'Blockfolio')
+![Blockfolio](/img/blockfolio.webp 'Blockfolio')

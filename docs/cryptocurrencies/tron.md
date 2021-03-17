@@ -10,7 +10,7 @@ modified: 2021-03-02
 
 # TRON (TRX)
 
-![Tron](../img/tron.webp 'Tron')
+![Tron](/img/tron.webp 'Tron')
 
 Official webpage https://tron.network/
 

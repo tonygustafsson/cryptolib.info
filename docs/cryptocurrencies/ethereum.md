@@ -10,7 +10,7 @@ modified: 2021-03-06
 
 # Ethereum (ETH)
 
-![Ethereum](../img/ethereum.webp 'Ethereum')
+![Ethereum](/img/ethereum.webp 'Ethereum')
 
 Official webpage https://www.ethereum.org/
 
@@ -51,7 +51,7 @@ Not everyone is happy about this proposion though, namely the miners who validat
 
 15 transactions per second is no longer enough. It's not even enough for _one_ application or _one_ game. It is not an easy task to increase the speed of a decentralized network, but the technology has come a long way since Ethereum 1.0 saw the light of day.
 
-![Ethereum 2.0](../img/eth2.webp 'Ethereum 2.0')
+![Ethereum 2.0](/img/eth2.webp 'Ethereum 2.0')
 
 ETH 2.0 is released in different phases.
 

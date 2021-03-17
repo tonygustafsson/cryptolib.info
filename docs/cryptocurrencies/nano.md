@@ -10,7 +10,7 @@ modified: 2019-07-29
 
 # NANO
 
-![NANO](../img/nano.webp 'NANO')
+![NANO](/img/nano.webp 'NANO')
 
 Official webpage https://nano.org/
 

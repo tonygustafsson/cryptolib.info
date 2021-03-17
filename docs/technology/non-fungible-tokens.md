@@ -10,7 +10,7 @@ modified: 2021-03-06
 
 # Non-fungible tokens (NFTs)
 
-![Non-fungible tokens (NFTs)](../img/non-fungible-tokens.webp 'Non-fungible tokens (NFTs)')
+![Non-fungible tokens (NFTs)](/img/non-fungible-tokens.webp 'Non-fungible tokens (NFTs)')
 
 ## What is "fungibility"?
 
@@ -35,7 +35,7 @@ There are NFTs that are sold for huge sums of money. For example [a dragon versi
 -   Be able to sell the item for a gain later.
 -   New opportunities and appearances in games.
 
-![Dragon the CryptoKittie](../img/non-fungible-tokens-cryptokitty.webp 'Dragon the CryptoKittie') _CryptoKitty 'Dragon' that was sold for 600 ETH._
+![Dragon the CryptoKittie](/img/non-fungible-tokens-cryptokitty.webp 'Dragon the CryptoKittie') _CryptoKitty 'Dragon' that was sold for 600 ETH._
 
 ## The most popular collectibles
 
@@ -59,7 +59,7 @@ Not all [blockchains](/technology/blockchains.html) can offer NFTs. It requires,
 
 [ERC-721](https://eips.ethereum.org/EIPS/eip-721) was created in early 2018 and was developed to being able to create unique symbols on Ethereum. Since then, it has been almost exclusively this technology that is used for NFTs. Recently, however, [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) has received a greater focus, and is an improvement developed by the creator of [Enjin](https://enjin.io/). It adds, among other things, that each NFT does not have to be completely unique, but can be in hundreds. This makes it much easier for developers to create potions and weapons for example in a game. It is also possible to change ownership of many NFTs in the same transaction, which makes it faster and cheaper.
 
-![Usage of NFTs](../img/non-fungible-tokens-usage.webp 'Usage of NFTs')
+![Usage of NFTs](/img/non-fungible-tokens-usage.webp 'Usage of NFTs')
 
 [Ethereum] (/cryptocurrencies/ethereum.html) is still an expensive and slow network to run games and applications on. When demand pushes, it is not always enough. It also holds back the popularity of NFTs to some extent. However, there are many other blockchains that focus heavily on NFTs, such as [Theta Network](https://www.thetatoken.org/), [Flow](https://www.onflow.org/), [Enjin](https://enjin.io/), [Decentraland](https://decentraland.org/) and [WAX](https://on.wax.io/wax-io/).
 

@@ -10,7 +10,7 @@ modified: 2021-03-02
 
 # Crypto Library
 
-![Crypto Library logotype](../img/cryptolib.webp 'Crypto Library logotype')
+![Crypto Library logotype](/img/cryptolib.webp 'Crypto Library logotype')
 
 The purpose of this website is to inform curious folks about cryptocurrencies. The website is independent in that the information should not encourage specific cryptocurrencies or exchanges in front of others. Most websites today have hidden agendas where they try to sell memberships to visitors or attract investors that benefit them - something we distance ourselves from.
 

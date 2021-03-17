@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Passive income
 
-![Passive income](../img/passive-income.webp 'Passive income')
+![Passive income](/img/passive-income.webp 'Passive income')
 
 Who wouldn't like making money while sleeping? The bank usually gives no interest at all, and in the best case you can get 0.65% if you unlock the money for x number of years. This page deals with the opportunities the cryptosphere provides to make money without actively working for it everyday. But there is generally no free money that does not pose a risk to you.
 

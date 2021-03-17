@@ -10,7 +10,7 @@ modified: 2021-03-12
 
 # Uniswap
 
-![Uniswap](../img/guides/uniswap/uniswap.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap.webp 'Uniswap')
 
 Uniswap is by far the largest [decentralized exchange](/market/exchanges.html) today. The fact that it is decentralized means that there is no central body that charges fees or handles orders, deposits or withdrawals. It is a free market between those who buy, sell and those who offer liquidity through special pools.
 
@@ -33,7 +33,7 @@ Uniswap does not have an order book like a normal exchange. They also do not che
 
 Anyone can set up liquidity pools between two currencies. For example, 50% ETH and 50% REN, and this balance will always be maintained, acting as pools people can buy from. When you take currency out of the REN pool, prices are affected because supply changes. It creates a system that consists of those who provide liquidity, those who buy and those who sell - completely without a central body.
 
-![Uniswap](../img/guides/uniswap/uniswap-liquidity-pools.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap-liquidity-pools.webp 'Uniswap')
 _In a liquidity pool, there must always be an equal amount of each trading pair_
 
 ## Fees
@@ -54,7 +54,7 @@ You exchange ETH for REN and pay 0.02 ETH in transaction fees. It is announced o
 
 You can find most tokens on Uniswap by clicking on the list with the "Select a token" button. There are thousands to choose from. But if your token is _not_ listed here, you can possibly find it by searching for your token on [CoinGecko](https://www.coingecko.com), clicking on the "Markets" tab and clicking on the Uniswap pair.
 
-![Uniswap](../img/guides/uniswap/uniswap7.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap7.webp 'Uniswap')
 _Here you see a long list of tokens to swap between on Uniswap_
 
 A last resort is to find out your token's contract address, which you can get either at [CoinGecko](https://www.coingecko.com) or [EtherScan](https://etherscan.io/). You then visit:
@@ -67,21 +67,21 @@ https://app.uniswap.org/#/swap?outputCurrency=[CONTRACT-ADDRESS]
 
 Visit https://app.uniswap.org/ and click on "Connect Wallet".
 
-![Uniswap](../img/guides/uniswap/uniswap1.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap1.webp 'Uniswap')
 
 Then select which wallet you want to use, for example [Metamask](/guides/metamask.html). If you have Metamask installed, it will ask for a password if you have not used it for a while. Select the account you want to connect with and tap Next. Accept the signature - this costs nothing.
 
-![Uniswap](../img/guides/uniswap/uniswap2.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap2.webp 'Uniswap')
 
 Now the screen changes to something similar to the above. You see how much you convert _from_ and how much you will get. "Minimum received" means that it takes slippage into account. If you accept that the price can be changed 1% up or down from the time you place the order until it goes through, this shows the least you can get. You can change the slip tolerance on the gear at the top right.
 
 When you are ready, click "Swap".
 
-![Uniswap](../img/guides/uniswap/uniswap3.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap3.webp 'Uniswap')
 
 You now see a summary of it all. When you are ready, click "Confirm Swap", after which your wallet should open automatically.
 
-![Uniswap](../img/guides/uniswap/uniswap4.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap4.webp 'Uniswap')
 
 If you use Metamask, it will look something like this. Other wallets look different but follow roughly the same concept. If you want to know more about Metamask and what you should think about, check out the [Metamask Guide](/guides/metamask.html).
 
@@ -91,13 +91,13 @@ The important thing here is to make sure that you pay enough in transaction fee 
 
 To sell, for example, TRAC to ETH, select the currencies in _from_ and _to_. And choose how much you want to swap.
 
-![Uniswap](../img/guides/uniswap/uniswap5.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap5.webp 'Uniswap')
 
 Selling tokens actually works in the same way as buying tokens. Because it's about exchanging tokens between each other. The difference occurs if you want to exchange one ERC-20 token for Ethereum, or if you want to exchange one ERC-20 token for another ERC-20 token. What you then have to do is first agree that Uniswap has the right to withdraw this currency from your account. This is a transaction on the Ethereum network and therefore costs a fee. But this only happens the first time you sell a currency, then it costs nothing to sell the same currency again.
 
 You will meet the sign below if you use Metamask. You can change your transaction fee if you wish. Then click "Confirm". This may take about a minute, but do not panic if it takes longer than that.
 
-![Uniswap](../img/guides/uniswap/uniswap6.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap6.webp 'Uniswap')
 
 When it is ready, it says "Approved" on Uniswap and you can then select "Swap". Then follow the same procedure as [when you buy](#buying).
 

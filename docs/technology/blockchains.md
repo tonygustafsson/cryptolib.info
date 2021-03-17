@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Blockchains
 
-![Blockchains](../img/blockchain.webp 'Blockchains')
+![Blockchains](/img/blockchain.webp 'Blockchains')
 
 A blockchain consists of a long series of blocks. Each block usually contains several transactions. It is a decentralized database without a central hub, which makes it difficult to stop or control.
 

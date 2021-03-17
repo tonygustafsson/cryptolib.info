@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Smart contracts
 
-![Smart contracts](../img/smart-contracts.webp 'Smart contracts')
+![Smart contracts](/img/smart-contracts.webp 'Smart contracts')
 
 Smart contracts are a solution for electronic and automatic contracts and were first proposed by Nick Szabo back in 1997. [Bitcoin](/cryptocurrencies/bitcoin.html) has a simple scripting language that supports multi-signatures and time locks etc., but [Ethereum ](/cryptocurrencies/ethereum.html) was the project that took it to a whole new level.
 

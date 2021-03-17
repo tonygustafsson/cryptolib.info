@@ -10,7 +10,7 @@ modified: 2021-03-02
 
 # Ripple (XRP)
 
-![Ripple](../img/xrp.webp 'Ripple')
+![Ripple](/img/xrp.webp 'Ripple')
 
 Official webpage https://www.ripple.com/xrp/
 

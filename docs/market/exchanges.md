@@ -18,7 +18,7 @@ One of the first exchanges was Mt. Gox, which with great success let a lot peopl
 
 Cryptocurrencies themselves are secure, as long as the private key is in safe custody. But having your money on a exchange always involves a risk. It is not _your_ money if you don't own the key, exchanges then function as a bank. The media often incorrectly reports that "Bitcoin has been hacked", which has never happened. What is meant is that a large exchange has been hacked.
 
-![Kryptohandel](../img/exchange.webp 'Kryptohandel')
+![Kryptohandel](/img/exchange.webp 'Kryptohandel')
 
 ## How it works
 

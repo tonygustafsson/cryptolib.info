@@ -10,7 +10,7 @@ modified: 2021-03-02
 
 # Litecoin (LTC)
 
-![Litecoin](../img/litecoin.webp 'Litecoin')
+![Litecoin](/img/litecoin.webp 'Litecoin')
 
 Officell webbplats: https://litecoin.org/
 

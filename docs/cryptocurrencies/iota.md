@@ -10,7 +10,7 @@ modified: 2019-07-29
 
 # IOTA
 
-![IOTA](../img/iota.webp 'IOTA')
+![IOTA](/img/iota.webp 'IOTA')
 
 Official webpage https://www.iota.org/
 

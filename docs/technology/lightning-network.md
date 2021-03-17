@@ -10,7 +10,7 @@ modified: 2021-03-09
 
 # Lightning Network
 
-![Lightning Network](../img/lightning-network.webp 'Lightning Network')
+![Lightning Network](/img/lightning-network.webp 'Lightning Network')
 
 Lightning Network is a payment network located on top of [blockchains](/technology/blockchains.html) such as [Bitcoin](/cryptocurrencies/bitcoin.html) and [Litecoin](/cryptocurrencies/litecoin.html), and is therefore called a layer-2 solution. The proposal was developed by Joseph Poon and Thaddeus Dryja in 2015 and came out as a beta in 2018.
 
@@ -38,7 +38,7 @@ Payment channels are created between two parties. A sum of BTC is dedicated to t
 
 You can also send money to parties you do not have a directly set-up payment channel to through a routing protocol similar to [TOR](https://www.torproject.org/download/). Each person who creates a payment channel chooses what it will cost to send money through the channel - but if it is too expensive, people will of course choose a different route. In general, it is very cheap, even to make a payment through many parties / nodes.
 
-![Lightning Network Test network](../img/lightning-network-nodes.webp 'Lightning Network Test network')
+![Lightning Network Test network](/img/lightning-network-nodes.webp 'Lightning Network Test network')
 _An example of a routed Lightning Network_
 
 ## Support

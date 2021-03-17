@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Oracles
 
-![Oracles](../img/oracles.webp 'Oracles')
+![Oracles](/img/oracles.webp 'Oracles')
 
 An oracle is a service that can provide [smart contracts](/technology/smart-contracts.html) with external information from the real world. Smart contracts follow a given program code and when certain set goals are reached, they are executed. But they can never make decisions based on anything other than what is on the [blockchain](/technology/blockchains.html). This is a limitation that makes things like randomness in games, market information or other external services impossible.
 
@@ -24,7 +24,7 @@ In the end, the use of oracle services is always a risk. Should they provide inc
 
 To try to get out of these problems, one usually uses several data sources and several oracles in parallel. There are also methods to provide financial incentives not to cheat the system, as it punishes the bad guy. Hardware oracles (measuring instruments) can also prove the authenticity of their data through zero knowledge proofs, without actually showing how they arrived at the measured values.
 
-![Informationsflöde för orakel](../img/oracles-info.webp 'Informationsflöde för orakel')
+![Informationsflöde för orakel](/img/oracles-info.webp 'Informationsflöde för orakel')
 
 ## Cost
 

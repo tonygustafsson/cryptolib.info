@@ -10,7 +10,7 @@ modified: 2021-03-01
 
 # Decentralized applications (DApps)
 
-![CryptoKitties](../img/decentralized-applications.webp 'CryptoKitties')
+![CryptoKitties](/img/decentralized-applications.webp 'CryptoKitties')
 
 A software that communicates with a [blockchain](/technology/blockchains.html) and integrates with them through [smart contracts](/technology/smart-contracts.html). These applications can look like ordinary applications, and can take the form of web applications, desktop applications or mobile apps.
 

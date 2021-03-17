@@ -10,7 +10,7 @@ modified: 2019-07-29
 
 # VeChain (VET)
 
-![VeChain](../img/vechain.webp 'VeChain')
+![VeChain](/img/vechain.webp 'VeChain')
 
 Official webpage https://www.vechain.com/
 
