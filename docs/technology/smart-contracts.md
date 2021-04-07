@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Smart contracts
+title: Smart contracts for a trustless world
 description: A solution that was adopted by Ethereum for the first time and involves laying if / then rules on the blockchain. For example, if $10 is deposited in the following account, send 50% to person X and 50% to person Y.
 mainImage: img/smart-contracts.webp
 author: Tony Gustafsson

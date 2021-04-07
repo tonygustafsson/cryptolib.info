@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Stablecoins
+title: Stablecoins - pegged to FIAT
 description: A stable coin is linked to a FIAT currency, securities or, for example, gold. The purpose is to have a more stable value to trade against.
 mainImage: img/stablecoins.webp
 author: Tony Gustafsson

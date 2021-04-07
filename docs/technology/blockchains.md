@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Blockchains
+title: Blockchains and the technology behind them
 description: About the technology behind blockchains. How they work and what they can be used for, and about the different generations since 2009.
 mainImage: img/blockchain.webp
 author: Tony Gustafsson

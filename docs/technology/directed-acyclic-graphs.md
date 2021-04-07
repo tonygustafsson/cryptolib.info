@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Directed acyclic graphs
+title: Directed acyclic graphs (DAGs)
 description: DAGs is a technology that promises faster transactions than blockchains and is successfully used by cryptocurrencies such as IOTA and NANO.
 mainImage: img/dag.webp
 author: Tony Gustafsson

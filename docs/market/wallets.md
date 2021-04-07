@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Wallets
+title: Crypto wallets and how they work
 description: Cryptocurrencies are stored in a wallet, which is an application that is protected with your private key, and allows you to send and receive the currency in question.
 mainImage: img/banano-wallet.webp
 author: Tony Gustafsson

@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Terminology
+title: The terminology for blockchains and cryptocurrencies
 description: It's easy to get confused in the cryptosphere. Here you will find a list of common concepts and their meaning.
 mainImage:
 author: Tony Gustafsson

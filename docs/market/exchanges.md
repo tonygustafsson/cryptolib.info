@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Exchanges
+title: How to use crypto exchanges
 description: About different exchanges and how they work. What you should think about, and the risks of leaving your assets with an exchange.
 mainImage: img/exchange.webp
 author: Tony Gustafsson

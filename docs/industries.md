@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Branscher
+title: The industries impacted by blockchains
 description: Blockchain technology affects not only currencies, but also, for example, the Internet of Things, logistics, games and artificial intelligence.
 mainImage:
 author: Tony Gustafsson

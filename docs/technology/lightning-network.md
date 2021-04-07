@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Lightning Network
+title: Lightning Network - Makes Bitcoin fast
 description: A layer-2 solution for Bitcoin and Litecoin, among others, which solves the problem of scalability. Transactions no longer take place on the layer-1 chain, only the result of the layer-2 chain is stored.
 mainImage: img/lightning-network.webp
 author: Tony Gustafsson

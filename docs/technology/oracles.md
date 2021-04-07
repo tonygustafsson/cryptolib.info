@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Oracles
+title: Oracles - Crypto services we can trust
 description: A service that offers external data to smart contracts and blockchains in a reliable way.
 mainImage: img/oracles.webp
 author: Tony Gustafsson

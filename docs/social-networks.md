@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Social networks
+title: Social networks for crypto currencies
 description: It can be lonely in the cryptosphere - here you will find information about social networks that relate to cryptocurrencies and blockchains.
 mainImage:
 author: Tony Gustafsson

@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Passive income
+title: Passive income - earn cryptos while you sleep
 description: About how you can make money on the cryptosphere while you sleep. By holding coins, staking, master nodes, mortgaging and mining.
 mainImage: img/passive-income.webp
 author: Tony Gustafsson

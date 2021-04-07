@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Ideology
+title: The ideology behind blockchains and crypto currencies
 description: Deals with the ideology and thoughts behind cryptocurrencies. The sphere is characterized mainly by libertarianism, freedom and to some extent anarchy.
 mainImage: img/cencorship.webp
 author: Tony Gustafsson

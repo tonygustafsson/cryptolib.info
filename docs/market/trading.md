@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Trading
+title: Crypto trading and how to be successful
 description: Discusses the differences between stock trading and crypto trading, what you should think about and also goes into common pitfalls for beginners.
 mainImage: img/mistake.webp
 author: Tony Gustafsson
