@@ -22,6 +22,10 @@ See a top list of decentralized applications on [DappRadar](https://dappradar.co
 
 ## Games
 
+### [Alien Worlds](https://alienworlds.io/)
+
+A [NFT](/tekniker/non-fungible-tokens.html)-based game on the WAX blockchain. You can buy, sell, trade NFTs and participate in planitary organizations (DAOs).
+
 ### [SpliterLands](https://splinterlands.com/)
 
 A card game where you collect cards, where some are more or less unique. These cards can then be exchanged between players in a marketplace, or played with. The game can be seen as a mix between pokemon playing cards and World of Warcraft. The game runs on the blockchain Hive.
@@ -30,11 +34,7 @@ A card game where you collect cards, where some are more or less unique. These c
 
 A turn-based RPG game that runs on both mobile platforms and desktops. It is about finding, saving and training heroes from history. A hero is stored on the blockchain and can of course not be copied.
 
-### [Nextcolony](https://nextcolony.io/)
-
-A space simulator game with RPG elements where you can find undiscovered parts of the universe, find and colonize planets and search and exchange objects with each other and attack each other.
-
-### [CryptoKitties](http://www.cryptokitties.co)
+### [CryptoKitties](https://www.cryptokitties.co)
 
 Perhaps the most famous DAPP, although it is not the most popular anymore. Here you collect cats - decentralized cats, that is, stored on the Ethereum chain. Cats are mated with other cats and since each cat has a simple DNA, the offspring will be a result of this DNA. Every cat is unique.
 
