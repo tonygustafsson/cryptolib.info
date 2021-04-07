@@ -22,7 +22,7 @@ The speed and way of validating make the technology great for smaller devices, s
 
 In blockchains each transaction is in a block together with many other transactions, which are processed sequentially. In DAG-based projects, transactions are validated separately, and can do so asynchronously. That is, several transactions can be validated simultaneously.
 
-To have their transaction validated, you need to validate two other, randomly selected transactions. Validation is usually done with a little [Proof of Work](/technology/proof-of-work). This method makes it unsustainable to misuse the network, as someone who spams the network helps to validate rather than overthrow. It also means that the transaction time actually becomes faster the more transactions that are processed - ie the opposite of blockchains.
+To have their transaction validated, you need to validate two other, randomly selected transactions. Validation is usually done with a little [Proof of Work](/technology/proof-of-work.html). This method makes it unsustainable to misuse the network, as someone who spams the network helps to validate rather than overthrow. It also means that the transaction time actually becomes faster the more transactions that are processed - ie the opposite of blockchains.
 
 Because of this, there is no room for miners in DAG-based currencies. There is therefore no one who needs to get a reward for work done, because you do the work yourself when you send your transaction. Therefore, the transaction fee is completely free, which provides new opportunities for microtransactions.
 
