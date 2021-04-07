@@ -7,7 +7,7 @@
         "doc": "docs"
     },
     "scripts": {
-        "start": "node index.js | ./node_modules/http-server/bin/http-server ./dist -c-1",
+        "start": "node index.js | ./node_modules/http-server/bin/http-server --port 8081 ./dist -c-1",
         "build": "node index.js build",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
